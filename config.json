@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://localhost/login-api",
+    "secret": "desafioconcrete2019"
+}
